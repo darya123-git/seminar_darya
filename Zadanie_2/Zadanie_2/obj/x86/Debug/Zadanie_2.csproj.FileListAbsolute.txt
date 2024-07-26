@@ -1,0 +1,4 @@
+C:\Users\Лейсан\Documents\Visual Studio 2010\Projects\Промежуточная аттестация\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe
+C:\Users\Лейсан\Documents\Visual Studio 2010\Projects\Промежуточная аттестация\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.pdb
+C:\Users\Лейсан\Documents\Visual Studio 2010\Projects\Промежуточная аттестация\Zadanie_2\Zadanie_2\obj\x86\Debug\Zadanie_2.exe
+C:\Users\Лейсан\Documents\Visual Studio 2010\Projects\Промежуточная аттестация\Zadanie_2\Zadanie_2\obj\x86\Debug\Zadanie_2.pdb
